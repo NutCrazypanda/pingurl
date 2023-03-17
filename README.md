@@ -1,5 +1,5 @@
 # pingurl
-Web request and check response time.
+Web request and check response time. A little python script for testing web server. Public internet does not allow to use ping (ICMP) so I replace with web request python to test my server.
 
 # installation
 
